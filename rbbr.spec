@@ -78,5 +78,5 @@ rm -rf %buildroot
 
 %changelog
 
-* Tue Mar 22 2011 Florentin Raud <florentin.raud@gmail.com> - 0.6.0
+* Tue Mar 22 2011 Someone <someone@dev.null> - 0.6.0
 - First build 0.6.0
